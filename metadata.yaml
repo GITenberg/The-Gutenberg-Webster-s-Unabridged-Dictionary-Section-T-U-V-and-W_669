@@ -1,0 +1,27 @@
+_repo: The-Gutenberg-Webster-s-Unabridged-Dictionary-Section-T-U-V-and-W_669
+creator:
+  authors:
+  - agent_name: Project Gutenberg
+    alias: Gutenberg, Project
+    gutenberg_agent_id: '114'
+    url: http://www.gutenberg.org/2009/agents/114
+  - agent_name: Webster, Noah
+    birthdate: 1758
+    deathdate: 1843
+    gutenberg_agent_id: '139'
+    url: http://www.gutenberg.org/2009/agents/139
+    wikipedia: http://en.wikipedia.org/wiki/Noah_Webster
+description: Section T, U, V, and W
+gutenberg_issued: '1996-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '669'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PE'
+- !lcsh 'English language -- Dictionaries'
+title: "The Gutenberg Webster's Unabridged Dictionary\r\nSection T, U, V, and W"
+url: http://www.gutenberg.org/ebooks/669

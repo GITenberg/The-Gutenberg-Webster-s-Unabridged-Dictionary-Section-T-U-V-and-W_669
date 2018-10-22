@@ -1,5 +1,5 @@
 _repo: The-Gutenberg-Webster-s-Unabridged-Dictionary-Section-T-U-V-and-W_669
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,5 +29,6 @@ rights_url: ''
 subjects:
 - !lcc 'PE'
 - !lcsh 'English language -- Dictionaries'
+- GITenberg
 title: "The Gutenberg Webster's Unabridged Dictionary\r\nSection T, U, V, and W"
 url: http://www.gutenberg.org/ebooks/669
